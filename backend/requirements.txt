@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.35
+pymysql==1.1.1
+cryptography==43.0.1
+pydantic
+python-multipart==0.0.9
+python-dotenv==1.2.3
+alembic
